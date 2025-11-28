@@ -1,3 +1,3 @@
-module moracode.com/splash
+module github.com/lukeabbott/splash
 
 go 1.25.4
